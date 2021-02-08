@@ -27,7 +27,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="FlixsterUnit1.gif"
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had to reinstall my Emulator to successfully get the view for the movies I have listed. Also I had to fix some issue regarding the LandscapeView, because it seemed like MAC users who has "Big Sur" it might causes some glich while we rotate the emulator on LandscapeView.
 
 ### Open-source libraries used
 
