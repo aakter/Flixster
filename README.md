@@ -22,9 +22,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) Improved the user interface by experimenting with styling and coloring.
 - [ ] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
-### App Walkthough GIF
+### App Walkthrough GIF
 
-<img src=‘FlixterUnit1.gif' width='' alt='Video Walkthrough' />
+<img src=‘FlixsterUnit1.gif' width='' alt='App Walkthrough GIF' />
 
 ### Notes
 I had to reinstall my Emulator to successfully get the view for the movies I have listed. Also I had to fix some issue regarding the LandscapeView, because it seemed like MAC users who has "Big Sur" it might causes some glich while we rotate the emulator on LandscapeView.
